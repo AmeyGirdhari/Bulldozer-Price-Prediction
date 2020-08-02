@@ -37,4 +37,7 @@ Test.csv is the test set, which won't be released until the last week of the com
 for this problem RandomForestRegressor algorithm is used. with the help of RandomizedSearchCV best Parameters for algorithm is found.
 
 ## Evaluation:
-for this problem i created custom evaluation function which predicts 1)mean absolute error 2)root mean squared error 3)r2
+for this problem i created custom evaluation function which predicts
+1)mean absolute error
+2)root mean squared error 
+3)r2
