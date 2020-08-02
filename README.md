@@ -20,7 +20,7 @@ this data has mainly 3 datasets
 
 3)Test.csv is the test set, which won't be released until the last week of the competition. It contains data from May 1, 2012 - November 2012. Your score on the test set determines your final rank for the competition.
 
-## Extracted insights from data
+## 3.Extracted insights from data
 
 1)sale price distribution
 
@@ -36,10 +36,10 @@ this data has mainly 3 datasets
 
 ![important features](https://user-images.githubusercontent.com/69007287/89128616-82476280-d514-11ea-90dc-c5f66b36679e.png)
 
-## Modelling:
+## 4.Modelling:
 for this problem RandomForestRegressor algorithm is used. with the help of RandomizedSearchCV best Parameters for algorithm is found.
 
-## Evaluation:
+## 5.Evaluation:
 for this problem i created custom evaluation function which predicts
 
 1)mean absolute error
