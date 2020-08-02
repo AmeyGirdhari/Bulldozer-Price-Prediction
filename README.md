@@ -30,3 +30,4 @@ Test.csv is the test set, which won't be released until the last week of the com
 
 
 3)important features of the data
+![important features](https://user-images.githubusercontent.com/69007287/89128616-82476280-d514-11ea-90dc-c5f66b36679e.png)
