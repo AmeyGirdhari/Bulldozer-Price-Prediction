@@ -25,6 +25,7 @@ Test.csv is the test set, which won't be released until the last week of the com
 
 2)sale date vs sale price
 
+![sale date vs sale price](https://user-images.githubusercontent.com/69007287/89128597-5d52ef80-d514-11ea-8e38-ee8540c45136.png)
 
 
 
