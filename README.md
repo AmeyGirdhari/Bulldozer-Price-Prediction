@@ -21,7 +21,7 @@ Test.csv is the test set, which won't be released until the last week of the com
 
 1)sale price distribution
 
-
+![sale price distribution](https://user-images.githubusercontent.com/69007287/89128571-3399c880-d514-11ea-8f03-9372b2a29adb.png)
 
 2)sale date vs sale price
 
