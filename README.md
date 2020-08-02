@@ -28,6 +28,13 @@ Test.csv is the test set, which won't be released until the last week of the com
 ![sale date vs sale price](https://user-images.githubusercontent.com/69007287/89128597-5d52ef80-d514-11ea-8e38-ee8540c45136.png)
 
 
-
 3)important features of the data
+
+
 ![important features](https://user-images.githubusercontent.com/69007287/89128616-82476280-d514-11ea-90dc-c5f66b36679e.png)
+
+## Modelling:
+for this problem RandomForestRegressor algorithm is used. with the help of RandomizedSearchCV best Parameters for algorithm is found.
+
+## Evaluation:
+for this problem i created custom evaluation function which predicts 1)mean absolute error 2)root mean squared error 3)r2
